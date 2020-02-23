@@ -3,7 +3,7 @@
   "displayName": "component-jumper",
   "description": "This is a extension for React to jump between Presentational Component and Container Component.",
   "publisher": "sitogi",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.42.0"
   },
