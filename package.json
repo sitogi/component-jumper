@@ -24,7 +24,7 @@
     "keybindings": [
       {
         "command": "extension.componentJumper",
-        "key": "ctrl+shift+0"
+        "key": "ctrl+shift+9"
       }
     ]
   },
